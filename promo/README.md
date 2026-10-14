@@ -10,14 +10,6 @@ An animated cooker cross-section: the weighted valve starts to rock when the pot
 
 *Target still: cooker finished while the open pot is about one third done*
 
-![From the CFD core project: a boiling curve](media/boiling_curve.png)
-
-*From the CFD core project: a boiling curve*
-
-![From the CFD core project: flow boiling](media/flow_boiling.png)
-
-*From the CFD core project: flow boiling*
-
 These results come from a private reference build. The code is not published; the roadmap shows the path so you can build your own.
 
 Live links:
